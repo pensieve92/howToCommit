@@ -1,2 +1,0 @@
-# howToCommit
-Created with CodeSandbox
